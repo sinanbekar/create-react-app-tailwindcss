@@ -16,6 +16,9 @@ jobs:
 
       - name: Update template.json
         run: node ./.github/workflows/generateTemplateJSON.js
+      
+      - name: Bump version
+        run: npm version patch
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
