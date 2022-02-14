@@ -1,4 +1,4 @@
-[Tailwind CSS v3.0](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app).
+[Tailwind CSS v3.0](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) with updated dependencies every day.
 ## Usage
 
 ### npx
